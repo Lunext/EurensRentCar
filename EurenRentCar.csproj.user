@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Interface\Buscador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Interface\Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Interface\Empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Interface\Inspecciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Interface\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Interface\Marcas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Interface\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Interface\Modelos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Interface\Rentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Interface\Reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Interface\TiposCombustibles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Interface\TiposVehiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Interface\Vehiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
